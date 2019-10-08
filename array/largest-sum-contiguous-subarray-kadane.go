@@ -24,3 +24,5 @@ func main() {
 	fmt.Println(msf)
 
 }
+
+//https://play.golang.org/p/WDS1cKdDSK2
